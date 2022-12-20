@@ -1,9 +1,1 @@
-<svg width="1728" height="1277" viewBox="0 0 1728 1277" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path opacity="0.22" d="M12.0002 1276.56C5.37278 1276.56 0.000243906 1271.19 0.000243616 1264.56L0.000188897 12.7295C0.000188607 6.10217 5.37277 0.729492 12.0002 0.729492L1716 0.729417C1722.63 0.729417 1728 6.1021 1728 12.7294L1728 1264.56C1728 1271.19 1722.63 1276.56 1716 1276.56L12.0002 1276.56Z" fill="url(#paint0_radial_516_26388)" fill-opacity="0.6"/>
-<defs>
-<radialGradient id="paint0_radial_516_26388" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1401.24 601.898) rotate(99.3944) scale(710.618 1187.32)">
-<stop stop-color="#37B3FF"/>
-<stop offset="1" stop-color="#000C4A" stop-opacity="0"/>
-</radialGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1728" height="1277" fill="none" viewBox="0 0 1728 1277"><path fill="url(#paint0_radial_516_26388)" fill-opacity=".6" d="M12.0002 1276.56C5.37278 1276.56 0.000243906 1271.19 0.000243616 1264.56L0.000188897 12.7295C0.000188607 6.10217 5.37277 0.729492 12.0002 0.729492L1716 0.729417C1722.63 0.729417 1728 6.1021 1728 12.7294L1728 1264.56C1728 1271.19 1722.63 1276.56 1716 1276.56L12.0002 1276.56Z" opacity=".22"/><defs><radialGradient id="paint0_radial_516_26388" cx="0" cy="0" r="1" gradientTransform="translate(1401.24 601.898) rotate(99.3944) scale(710.618 1187.32)" gradientUnits="userSpaceOnUse"><stop stop-color="#37B3FF"/><stop offset="1" stop-color="#000C4A" stop-opacity="0"/></radialGradient></defs></svg>
